@@ -7,3 +7,12 @@ body {
 .my-name {
     color: blueviolet;
 }
+.heading {
+    width: 48%;
+    float: left;
+    
+}
+.my-pic {
+    float: right;
+    width: 48%;
+}
